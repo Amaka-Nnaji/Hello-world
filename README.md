@@ -1,2 +1,6 @@
 # Hello-world
-Just another repository
+
+Hi All!
+
+Amaka here. PhD scholar and emerging data scientist! 
+I am here to join the community of wise Github usuers :)
